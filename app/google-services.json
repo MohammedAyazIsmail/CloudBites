@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18548863873",
+    "firebase_url": "https://cloudbites-6c021-default-rtdb.firebaseio.com",
+    "project_id": "cloudbites-6c021",
+    "storage_bucket": "cloudbites-6c021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18548863873:android:ed515dbc9615d2b940ee80",
+        "android_client_info": {
+          "package_name": "com.example.cloudbites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18548863873-l92h48iauum4migvl6rarpqaledph2eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFubXivngAPKg2FmWi4Te4NgFxoYPc4cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18548863873-l92h48iauum4migvl6rarpqaledph2eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
